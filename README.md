@@ -17,7 +17,7 @@ npm install.
 
 - Ejecutar las pruebas : 
 ```
-node index.js
+npx cypress run --spec cypress\integration\color-pallete\color-pallete-changes.spec.js --headless
 ```
 
 ### Resulados de las pruebas : 
